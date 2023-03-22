@@ -1,0 +1,11 @@
+/* .background
+{
+    background-image:url(image/logo.png);
+    background-repeat: repeat-y;
+    background-position:top right;
+} */
+.background
+{
+    background-color: antiquewhite;
+    font-style: italic;
+}
